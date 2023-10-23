@@ -1,9 +1,9 @@
 # yandex-GO-myadresses
-чек-лист проверок добавления адресов в приложении Яндекс GO
+чек-лист проверок добавления адресов в приложении Яндекс GO.
 
-![image](https://github.com/janekomarovskaja/yandex-GO-myadresses/assets/138881802/b64e6cd5-35df-4051-a4ba-b4a5eb1b6300)
+Выполнен в рамках тестового задания.
 
-Выполнен в рамках тестового задания
+<img src="https://sun9-43.userapi.com/impg/rxvklQrgxMkEnM0R0RyrPFUbyaqh8NvTWl8Kjw/Js89AJupwXQ.jpg?size=828x1792&quality=95&sign=4ce3ada4f98c5e75bdc1bf74d6ca3768&type=album" height="450">
 
 ### Хэдер:
 1. В левом верхнем углу находится кнопка стрелка влево (<) чёрного цвета
