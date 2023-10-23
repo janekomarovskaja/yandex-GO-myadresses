@@ -1,5 +1,8 @@
 # yandex-GO-myadresses
-чек-лист проверок для "Мои адреса" в приложении Яндекс GO
+чек-лист проверок добавления адресов в приложении Яндекс GO
+
+![image](https://github.com/janekomarovskaja/yandex-GO-myadresses/assets/138881802/b64e6cd5-35df-4051-a4ba-b4a5eb1b6300)
+
 Выполнен в рамках тестового задания
 
 ### Хэдер:
